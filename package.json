@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Andrew Bradley <cspotcode@gmail.com>",
+  "name": "runfellow-link",
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "0.0.32",
+    "@types/lodash": "^4.14.104",
+    "@types/node": "^9.4.6",
+    "aws-lambda": "^0.1.2",
+    "serverless": "^1.26.0",
+    "serverless-offline": "^3.18.0",
+    "ts-node": "^5.0.0",
+    "typescript": "^2.7.2"
+  }
+}
